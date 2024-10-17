@@ -1,4 +1,4 @@
-# project1
+ project1
 This is my First Git Repository.
 <br>
-Author -Amara Shahid
+Author -Amara Shahid(amarashahid)
